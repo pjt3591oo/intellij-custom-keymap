@@ -11,3 +11,6 @@
 정의이동 : `[option] + click`
 
 디렉토리에서 단어 찾기 : Find in Path - `[command] + [shift] + F`
+
+실행 : Run - `[Ctrl] + R`
+실행 : Run - `[Ctrl] + [shift] + R`
